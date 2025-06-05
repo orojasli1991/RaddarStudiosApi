@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\bin\Debug\net8.0\Raddar.ProductsApi.Domain.exe
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\bin\Debug\net8.0\Raddar.ProductsApi.Domain.deps.json
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\bin\Debug\net8.0\Raddar.ProductsApi.Domain.runtimeconfig.json
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\bin\Debug\net8.0\Raddar.ProductsApi.Domain.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\bin\Debug\net8.0\Raddar.ProductsApi.Domain.pdb
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\Raddar.ProductsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\Raddar.ProductsApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\Raddar.ProductsApi.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\Raddar.ProductsApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\Raddar.ProductsApi.Domain.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\refint\Raddar.ProductsApi.Domain.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\Raddar.ProductsApi.Domain.pdb
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\Raddar.ProductsApi.Domain.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Domain\obj\Debug\net8.0\ref\Raddar.ProductsApi.Domain.dll

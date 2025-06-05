@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddarstudios\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|solutionrelative:raddarstudios\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}|Raddar.ProductsApi.Application\\Raddar.ProductsApi.Application.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddar.productsapi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}|Raddar.ProductsApi.Application\\Raddar.ProductsApi.Application.csproj|solutionrelative:raddar.productsapi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddarstudios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|solutionrelative:raddarstudios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddarstudios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|solutionrelative:raddarstudios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddarstudios\\raddarstudios.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ADEA8889-6334-4DBA-B678-DB372C806204}|RaddarStudios\\RaddarStudios.csproj|solutionrelative:raddarstudios\\raddarstudios.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F02A0B-8104-4CC2-A524-0FA4106AE830}|Raddar.ProductsApi.Infrastructure\\Raddar.ProductsApi.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddar.productsapi.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F02A0B-8104-4CC2-A524-0FA4106AE830}|Raddar.ProductsApi.Infrastructure\\Raddar.ProductsApi.Infrastructure.csproj|solutionrelative:raddar.productsapi.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}|Raddar.ProductsApi.Domain\\Raddar.ProductsApi.Domain.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddar.productsapi.domain\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}|Raddar.ProductsApi.Domain\\Raddar.ProductsApi.Domain.csproj|solutionrelative:raddar.productsapi.domain\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}|Raddar.ProductsApi.Application\\Raddar.ProductsApi.Application.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddar.productsapi.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}|Raddar.ProductsApi.Application\\Raddar.ProductsApi.Application.csproj|solutionrelative:raddar.productsapi.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}|Raddar.ProductsApi.Domain\\Raddar.ProductsApi.Domain.csproj|c:\\users\\lenovo\\source\\repos\\raddarstudiosapi\\raddar.productsapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}|Raddar.ProductsApi.Domain\\Raddar.ProductsApi.Domain.csproj|solutionrelative:raddar.productsapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RaddarStudios",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\RaddarStudios.csproj",
+              "RelativeDocumentMoniker": "RaddarStudios\\RaddarStudios.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\RaddarStudios.csproj",
+              "RelativeToolTip": "RaddarStudios\\RaddarStudios.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T23:02:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\appsettings.json",
+              "RelativeDocumentMoniker": "RaddarStudios\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\appsettings.json",
+              "RelativeToolTip": "RaddarStudios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T22:58:37.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Domain\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Raddar.ProductsApi.Domain\\Interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Domain\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "Raddar.ProductsApi.Domain\\Interface\\IProductRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:51:22.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "RaddarStudios\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\Controller\\ProductController.cs",
+              "RelativeToolTip": "RaddarStudios\\Controller\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:43:49.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Raddar.ProductsApi.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Raddar.ProductsApi.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T22:00:35.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Raddar.ProductsApi.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Raddar.ProductsApi.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:59:24.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Raddar.ProductsApi.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Raddar.ProductsApi.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:45:04.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Application\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Raddar.ProductsApi.Application\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\Raddar.ProductsApi.Application\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Raddar.ProductsApi.Application\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:44:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\Program.cs",
+              "RelativeDocumentMoniker": "RaddarStudios\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RaddarStudiosApi\\RaddarStudios\\Program.cs",
+              "RelativeToolTip": "RaddarStudios\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:35:23.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

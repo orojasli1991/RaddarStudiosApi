@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaddarStudios", "RaddarStudios\RaddarStudios.csproj", "{ADEA8889-6334-4DBA-B678-DB372C806204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raddar.ProductsApi.Application", "Raddar.ProductsApi.Application\Raddar.ProductsApi.Application.csproj", "{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raddar.ProductsApi.Domain", "Raddar.ProductsApi.Domain\Raddar.ProductsApi.Domain.csproj", "{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raddar.ProductsApi.Infrastructure", "Raddar.ProductsApi.Infrastructure\Raddar.ProductsApi.Infrastructure.csproj", "{13F02A0B-8104-4CC2-A524-0FA4106AE830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raddar.ProductsApi.Test", "Raddar.ProductsApi.Test\Raddar.ProductsApi.Test.csproj", "{5BA48EB6-D080-44AA-B40C-C004266D9DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADEA8889-6334-4DBA-B678-DB372C806204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEA8889-6334-4DBA-B678-DB372C806204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEA8889-6334-4DBA-B678-DB372C806204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEA8889-6334-4DBA-B678-DB372C806204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF52CAE6-A66A-497D-BB33-2A6BF7E64B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A6E107-F69A-47B6-94B1-D9214A1C3D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F02A0B-8104-4CC2-A524-0FA4106AE830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F02A0B-8104-4CC2-A524-0FA4106AE830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F02A0B-8104-4CC2-A524-0FA4106AE830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F02A0B-8104-4CC2-A524-0FA4106AE830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA48EB6-D080-44AA-B40C-C004266D9DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA48EB6-D080-44AA-B40C-C004266D9DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA48EB6-D080-44AA-B40C-C004266D9DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA48EB6-D080-44AA-B40C-C004266D9DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1C2CD1-3D91-4595-9478-775BBA368411}
+	EndGlobalSection
+EndGlobal

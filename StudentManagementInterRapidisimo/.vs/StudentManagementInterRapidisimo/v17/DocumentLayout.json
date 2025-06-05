@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70EA87E-0AD5-45E9-B428-0A88417BC384}|StudentManagement.Application\\StudentManagementInterRapidisimo.Application.csproj|c:\\users\\lenovo\\source\\repos\\studentmanagementinterrapidisimo\\studentmanagement.application\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70EA87E-0AD5-45E9-B428-0A88417BC384}|StudentManagement.Application\\StudentManagementInterRapidisimo.Application.csproj|solutionrelative:studentmanagement.application\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF95CA5-05F4-44B9-86C7-B6C7EE6C4B0A}|StudentManagementInterRapidisimo.Tests\\StudentManagementInterRapidisimo.Tests.csproj|c:\\users\\lenovo\\source\\repos\\studentmanagementinterrapidisimo\\studentmanagementinterrapidisimo.tests\\studentmanagementinterrapidisimo.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5FF95CA5-05F4-44B9-86C7-B6C7EE6C4B0A}|StudentManagementInterRapidisimo.Tests\\StudentManagementInterRapidisimo.Tests.csproj|solutionrelative:studentmanagementinterrapidisimo.tests\\studentmanagementinterrapidisimo.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9DF188-6E79-4C4B-BA7A-E1FFD6FF8E0D}|StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Api.csproj|c:\\users\\lenovo\\source\\repos\\studentmanagementinterrapidisimo\\studentmanagementinterrapidisimo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A9DF188-6E79-4C4B-BA7A-E1FFD6FF8E0D}|StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Api.csproj|solutionrelative:studentmanagementinterrapidisimo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9DF188-6E79-4C4B-BA7A-E1FFD6FF8E0D}|StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Api.csproj|c:\\users\\lenovo\\source\\repos\\studentmanagementinterrapidisimo\\studentmanagementinterrapidisimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9DF188-6E79-4C4B-BA7A-E1FFD6FF8E0D}|StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Api.csproj|solutionrelative:studentmanagementinterrapidisimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9DF188-6E79-4C4B-BA7A-E1FFD6FF8E0D}|StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Api.csproj|c:\\users\\lenovo\\source\\repos\\studentmanagementinterrapidisimo\\studentmanagementinterrapidisimo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9DF188-6E79-4C4B-BA7A-E1FFD6FF8E0D}|StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Api.csproj|solutionrelative:studentmanagementinterrapidisimo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagement.Application\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Dto\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagement.Application\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Dto\\StudentDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:22:34.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManagementInterRapidisimo.Tests",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Tests\\StudentManagementInterRapidisimo.Tests.csproj",
+              "RelativeDocumentMoniker": "StudentManagementInterRapidisimo.Tests\\StudentManagementInterRapidisimo.Tests.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo.Tests\\StudentManagementInterRapidisimo.Tests.csproj",
+              "RelativeToolTip": "StudentManagementInterRapidisimo.Tests\\StudentManagementInterRapidisimo.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T00:44:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementInterRapidisimo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo\\appsettings.json",
+              "RelativeToolTip": "StudentManagementInterRapidisimo\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T00:01:59.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentManagementInterRapidisimo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentManagementInterRapidisimo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:55:42.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementInterRapidisimo\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentManagementInterRapidisimo\\StudentManagementInterRapidisimo\\Program.cs",
+              "RelativeToolTip": "StudentManagementInterRapidisimo\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:45:17.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
