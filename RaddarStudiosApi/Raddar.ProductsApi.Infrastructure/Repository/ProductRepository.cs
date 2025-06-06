@@ -4,6 +4,9 @@ using System.Collections.Generic;
 using System.Data;
 using Dapper;
 using Raddar.ProductsApi.Domain.Entities;
+using Raddar.ProductsApi.Application.Dto;
+using System.Data.Common;
+using System.Threading.Tasks;
 
 namespace Raddar.ProductsApi.Infrastructure.Repository
 {
@@ -15,39 +18,51 @@ namespace Raddar.ProductsApi.Infrastructure.Repository
         {
             _dbConnection = dbConnection;
         }
-        public async Task<IEnumerable<Product>> GetAllAsync()
+        public async Task<IEnumerable<Product>> GetAllProductAsync()
         {
-            var sql = "SELECT * FROM Product";
-            return await _dbConnection.QueryAsync<Product>(sql);
+            return await _dbConnection.QueryAsync<Product>("sp_GetAllProduct", commandType: CommandType.StoredProcedure);
+            
         }
-        public async Task<Product> GetByIdAsync(int id)
+        public async Task<Product> GetByIdProductAsync(int id)
         {
-            var sql = "SELECT * FROM Products WHERE Id = @Id";
-            return await _dbConnection.QueryFirstOrDefaultAsync<Product>(sql, new { Id = id });
+            return await _dbConnection.QueryFirstAsync<Product>("sp_GetProductById", new { id = id}, commandType: CommandType.StoredProcedure);
         }
-        public async Task<int> AddAsync(Product product)
+        public async Task<int> CreateProductAsync(Product product)
         {
-            var sql = @"INSERT INTO Products (Nombre, Descripcion, Precio, Stock, FechaCreacion) 
-                    VALUES (@Nombre, @Descripcion, @Precio, @Stock, @FechaCreacion);
-                    SELECT CAST(SCOPE_IDENTITY() as int)";
-            var id = await _dbConnection.QuerySingleAsync<int>(sql, product);
-            return id;
+            return await _dbConnection.ExecuteAsync(
+            "sp_CreateProduct",
+            new
+            {
+                product.Name,
+                product.Description,
+                product.Price,
+                product.Stock,
+                CreateDate = DateTime.UtcNow
+            },
+            commandType: CommandType.StoredProcedure);
         }
-        public async Task<int> UpdateAsync(Product product)
+        public async Task<int> UpdateProductAsync(Product product)
         {
-            var sql = @"UPDATE Products SET 
-                    Nombre = @Nombre,
-                    Descripcion = @Descripcion,
-                    Precio = @Precio,
-                    Stock = @Stock,
-                    FechaCreacion = @FechaCreacion
-                    WHERE Id = @Id";
-            return await _dbConnection.ExecuteAsync(sql, product);
+           return await _dbConnection.ExecuteAsync(
+            "sp_UpdateProduct",
+            new
+            {
+                product.Id,
+                product.Name,
+                product.Description,
+                product.Price,
+                product.Stock,
+                CreateDate = DateTime.UtcNow
+
+            },
+            commandType: CommandType.StoredProcedure);
         }
-        public async Task<int> DeleteAsync(int id)
+        public async Task<int> DeleteProductAsync(int id)
         {
-            var sql = "DELETE FROM Products WHERE Id = @Id";
-            return await _dbConnection.ExecuteAsync(sql, new { Id = id });
+           return await _dbConnection.ExecuteAsync(
+           "sp_DeleteProduct",
+           new { Id = id },
+           commandType: CommandType.StoredProcedure);
         }
     }
 }

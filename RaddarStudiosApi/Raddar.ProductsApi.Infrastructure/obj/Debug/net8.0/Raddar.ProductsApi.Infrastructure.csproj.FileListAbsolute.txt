@@ -10,6 +10,19 @@ C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Raddar.ProductsApi.Infrastructure.dll
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Raddar.ProductsApi.Infrastructure.pdb
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Dapper.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Raddar.ProductsApi.Application.dll
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Raddar.ProductsApi.Domain.dll
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\bin\Debug\net8.0\Raddar.ProductsApi.Application.pdb
@@ -19,6 +32,7 @@ C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\obj\Debug\net8.0\Raddar.ProductsApi.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\obj\Debug\net8.0\Raddar.ProductsApi.Infrastructure.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\obj\Debug\net8.0\Raddar.ProductsApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\obj\Debug\net8.0\Raddar.ProductsApi.Infrastructure.sourcelink.json
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\obj\Debug\net8.0\Raddar.P.532B9070.Up2Date
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\obj\Debug\net8.0\Raddar.ProductsApi.Infrastructure.dll
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Infrastructure\obj\Debug\net8.0\refint\Raddar.ProductsApi.Infrastructure.dll

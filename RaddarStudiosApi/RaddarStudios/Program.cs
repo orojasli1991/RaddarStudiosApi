@@ -6,6 +6,8 @@ using Raddar.ProductsApi.Infrastructure.Repository;
 using System.Data;
 using System.Text;
 using Microsoft.Data.SqlClient;
+using Microsoft.OpenApi.Models;
+using Microsoft.Extensions.Options;
 
 
 
@@ -17,7 +19,7 @@ builder.Services.AddSwaggerGen();
 string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddTransient<IDbConnection>(sp => new SqlConnection(connectionString));
 builder.Services.AddScoped<IProductRepository,ProductRepository>();
-builder.Services.AddScoped<ProductService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 // config jwt
 var jwtSettings = builder.Configuration.GetSection("Jwt");
 var key = Encoding.ASCII.GetBytes(jwtSettings["Key"]);
@@ -39,10 +41,39 @@ builder.Services.AddAuthentication(options => {
         };
     });
 builder.Services.AddAuthorization();
+builder.Services.AddSwaggerGen(options =>
+{ 
+
+        options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+        {
+            Name = "Authorization",
+            Type = SecuritySchemeType.ApiKey,
+            Scheme = "Bearer",
+            BearerFormat = "JWT",
+            In = ParameterLocation.Header,
+            Description = "Ingresa tu token JWT con el esquema Bearer. Ejemplo: Bearer {token}"
+        });
+        options.AddSecurityRequirement(new OpenApiSecurityRequirement
+            {
+                {
+                    new OpenApiSecurityScheme
+                    {
+                        Reference = new OpenApiReference
+                        {
+                            Type = ReferenceType.SecurityScheme,
+                            Id = "Bearer"
+                        }
+                    },
+                    new string[] {}
+                }
+         });
+});
+
 
 var app = builder.Build();
 
 app.UseAuthentication();
+
 
 
 // Configure the HTTP request pipeline.
@@ -53,7 +84,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
     app.UseDeveloperExceptionPage();
 }
-
+app.UseMiddleware<Raddar.ProductsApi.Infrastructure.Exceptions.ExceptionsHandler>();
 app.UseRouting();
 
 app.UseAuthorization();
@@ -61,4 +92,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
+public partial class Program { }

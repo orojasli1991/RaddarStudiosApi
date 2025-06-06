@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaddarStudios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6245c2e2fb305a91043b76be720ae51215c35e0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaddarStudios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaddarStudios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

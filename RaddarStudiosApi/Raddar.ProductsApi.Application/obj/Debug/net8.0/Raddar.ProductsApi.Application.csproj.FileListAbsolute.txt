@@ -13,6 +13,7 @@ C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj\Debug\net8.0\Raddar.ProductsApi.Application.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj\Debug\net8.0\Raddar.ProductsApi.Application.AssemblyInfo.cs
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj\Debug\net8.0\Raddar.ProductsApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj\Debug\net8.0\Raddar.ProductsApi.Application.sourcelink.json
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj\Debug\net8.0\Raddar.P.AA8F2066.Up2Date
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj\Debug\net8.0\Raddar.ProductsApi.Application.dll
 C:\Users\Lenovo\source\repos\RaddarStudiosApi\Raddar.ProductsApi.Application\obj\Debug\net8.0\refint\Raddar.ProductsApi.Application.dll
